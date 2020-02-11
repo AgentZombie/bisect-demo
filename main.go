@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("0dd98f7db5048198e5fa74c3c2cf046e  ")
+	panic("you're not funny")
+	fmt.Println("9621e3c991f24fa0eb0fbba1cedf1809  ")
 }
