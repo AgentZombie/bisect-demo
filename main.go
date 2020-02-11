@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	panic("you're not funny")
-	fmt.Println("7d8d51326c8036e83c27a1991d89f42f  ")
+	fmt.Println("8e4b772952aac8bbc51738608f2f7d16  ")
 }
